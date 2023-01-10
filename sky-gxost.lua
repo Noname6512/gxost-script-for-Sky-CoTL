@@ -29,7 +29,7 @@ else
 end
 gxapi = load(gxapi)()
 
-scriptv = {process = {'com.tgc.sky.android'}, version = 204815}
+scriptv = {process = {'com.tgc.sky.android'}, version = 209628}
 
 gameinfo = gg.getTargetInfo()
 a_ver = gg.ANDROID_SDK_INT
